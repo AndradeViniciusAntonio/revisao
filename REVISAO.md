@@ -6,5 +6,11 @@
 # 3 - O que é branch?
 São ramificações do projeto,servem para separar grandes modificações
 e evitam criar problemas no código principal.
-# O que é merge?
+# 4 - O que é merge?
 União de 2 branch
+# 5 - O que é clone?
+É uma branch de um repositório online em um repositório local.
+Quando se deseja trabalhar em um repositório hospedado no GIFTHUB,
+clona-se esse repositório para seu computador, trabalha-se nele e 
+então é pedida a permissão para atualizar as alteraçõesonline. 
+
