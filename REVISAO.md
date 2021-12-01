@@ -1,8 +1,10 @@
 # revisao
-#1 - O que é um repositório?
+# 1 - O que é um repositório?
 É a pasta do projeto.
-#2 - O que é commit?
+# 2 - O que é commit?
 É um grupo de alterações no códio.
-#3 - O que é branch?
+# 3 - O que é branch?
 São ramificações do projeto,servem para separar grandes modificações
 e evitam criar problemas no código principal.
+# O que é merge?
+União de 2 branch
