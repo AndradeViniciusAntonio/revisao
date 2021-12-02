@@ -13,5 +13,9 @@ União de 2 branch
 Quando se deseja trabalhar em um repositório hospedado no GIFTHUB,
 clona-se esse repositório para seu computador, trabalha-se nele e 
 então é pedida a permissão para atualizar as alteraçõesonline. 
+# 6 - O que é pull?
+Envia o código para o repositório online.
+
+
 
 
