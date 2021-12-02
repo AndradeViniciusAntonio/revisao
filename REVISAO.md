@@ -15,6 +15,7 @@ clona-se esse repositório para seu computador, trabalha-se nele e
 então é pedida a permissão para atualizar as alteraçõesonline. 
 # 6 - O que é pull?
 Envia o código para o repositório online.
+# 7 - O que é push?
 
 
 
